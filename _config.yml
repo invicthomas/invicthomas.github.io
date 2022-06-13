@@ -28,23 +28,23 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
-  # keybase: your_username
-  # linkedin: your_username
-  # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
+ social_media:
+   behance: thomasmcgonagle
+   dribbble: mcgonagletom
+   facebook: thomas.mcgonagle
+   hackerrank: mcgonagle
+   instagram: mcgonagletom
+   keybase: mcgonagle
+   linkedin: thomasmcgonagle
+   mastodon: mcgonagle
+   medium: mcgonagle
+   stackoverflow: 4716909
+   telegram: mcgonagle
+   twitter: mcgonagle
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+   website: https://shakeuplabs.com
+   youtube: ThomasAMcGonagle
 
 topics:
   - name: CSS
