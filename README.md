@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/mcgonagle/mcgonagle.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master&event=deployment)](https://github.com/mcgonagle/mcgonagle.github.io/actions/workflows/pages/pages-build-deployment)
+
 # Get started building your personal website
 
 ### Showcase your software development skills
