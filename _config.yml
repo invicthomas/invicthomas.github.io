@@ -49,6 +49,12 @@ projects:
 topics:
   - name: DevOps
 
+  - name: SoftOps
+
   - name: DX
 
-  - name: GitHub
+  - name: Developer Productivity (DP)
+
+  - name: CI
+
+  - name: CD
