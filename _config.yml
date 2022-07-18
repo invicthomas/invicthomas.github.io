@@ -28,8 +28,7 @@ projects:
     projects:
     # - repo-name
 
-site: 
-  social_media:
+social_media:
     behance: thomasmcgonagle
     dribbble: mcgonagletom
     facebook: thomas.mcgonagle
